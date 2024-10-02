@@ -2,7 +2,7 @@
 
 Welcome to the **Book List App**! This is a simple yet powerful web application where users can add, remove, and store books in the browser using `localStorage`. 🚀 Built using **JavaScript**, this app provides a great way to track your reading list right within your browser! 🌐
 
-![Book List App Preview](https://via.placeholder.com/800x400.png) <!-- Optional: Add a screenshot here -->
+![Book List App Preview](https://ibb.co/44MwgMh) <!-- Optional: Add a screenshot here -->
 
 ---
 
@@ -87,16 +87,6 @@ Handles the storage of books in `localStorage`, including:
 - **CSS3** for styling
 - **JavaScript** for interactivity
 - **localStorage** for persistent data storage
-
----
-
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400.png) <!-- Replace with actual screenshot -->
-
-### Alerts and Form
-![Alerts](https://via.placeholder.com/800x400.png) <!-- Replace with actual screenshot -->
 
 ---
 
